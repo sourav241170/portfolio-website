@@ -6,7 +6,6 @@ This repository contains files of a personal Portfolio website that I created fo
 
 - [Overview](#overview)
 - [Features](#features)
-- [Installation](#installation)
 
 
 ## Overview
@@ -19,5 +18,7 @@ This project is a single page Personal Portfolio Website created mainly using **
 - Only free Themes and Plugins used
 - Elementor-based page designs
 
-## [View Live Website](https://portfolio.souravdigital.in/akshay-bose/)
+## Check current Progress on live
+
+- [View Live Website](https://portfolio.souravdigital.in/akshay-bose/)
 
